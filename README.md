@@ -1,7 +1,10 @@
 
 ### Hi  there 👋, I'm David Agyakwa!🇬🇭
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0D1TEV)
 <img align='right' src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="220">
 <p><em>Software Enginner at <a href="https://www.branfluenzas.tech/">Branfluenzas</a></em></p>
+
+
 
 ![GitHub davidAg9](https://komarev.com/ghpvc/?username=davidAg9&label=Profile%20views&color=02c1ee&style=flat")
 [![Linkedin: David Agyakwa](https://img.shields.io/badge/-David%20Agyakwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-okyere-agyakwa-76843b148/)](https://www.linkedin.com/in/david-okyere-agyakwa-76843b148/)
