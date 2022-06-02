@@ -2,7 +2,7 @@
 ### Hi  there 👋, I'm David Agyakwa!🇬🇭
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0D1TEV)
 <img align='right' src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="220">
-<p><em>Software Enginner at <a href="https://www.branfluenzas.tech/">Branfluenzas</a></em></p>
+<p><em>Software Engineer at <a href="https://www.branfluenzas.tech/">Branfluenzas</a></em></p>
 
 
 
